@@ -9,5 +9,7 @@ namespace TestingGit
     public class Class1
     {
         //Test2
+     //   tesrcsdfsdgdsg
     }
 }
+//git add --all
